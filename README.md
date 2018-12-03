@@ -1,2 +1,2 @@
 # Year10cs
-Year 10 Computer Science COde
+Year 10 Computer Science Code
